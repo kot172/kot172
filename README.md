@@ -1,4 +1,4 @@
-### Hi there , I'm Nikita
+### Привет, я Никита
 
 <h3>Languages and Tools:</h3>
 <div>
